@@ -24,7 +24,6 @@ This project is a prototype of an **Adaptive Cruise Braking System**, developed 
 4. Based on the distance readings, the system decides whether to turn left or right, and then resumes forward motion.
 5. If no object is detected within the danger zone, the vehicle continues to move forward.
 6. The system also adjusts the speed of the motors based on the distance, slowing down when obstacles are near and stopping if too close.
-7. 
 
 ## Contribution
 Feel free to submit issues or pull requests for improvements. Contributions are welcome!
